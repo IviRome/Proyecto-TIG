@@ -201,10 +201,11 @@ path {
 }
 
 #sel_DESC_ {
-    height: 11.25rem;
+    height: 11.2rem !important;
+    font-size: 12px;
     overflow: hidden;
     background-color: #222831;
-    color: white;
+    color: white !important;
 }
 
 select.decorated option:hover {
